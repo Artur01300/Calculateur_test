@@ -1,11 +1,9 @@
 .calPompChaleurRadio1{
    text-align: center;
 }
-
 .calPompChaleurRadio1Semi{
    padding-left: 2.2em;
 }
-
 .containerPartie2{
     display: flex;
     justify-content: center;
@@ -16,22 +14,14 @@
     width: 100%;
     text-align: center;
 }
-
 .part2Altitud{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
 .inputLongeur{
     padding-right: -40px;
 }
-
 #longueur, #largeur, #hauteur {
     width: 40px;
 }
-
-#longueur{
-    margin-left: 0.9em;
-}
-
